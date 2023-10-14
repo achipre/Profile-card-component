@@ -7,12 +7,12 @@ function App() {
   return (
     <main className="relative min-h-screen flex justify-center items-center">
       <img
-        className="absolute top-[-39.7%] left-[-9.9%]"
+        className="absolute top-[-33%] left-[-11%]"
         src={patternTop}
         alt="Imagen de Background Top"
       />
       <img
-        className="absolute bottom-[-52.8%] right-[-6.5%]"
+        className="absolute bottom-[-87.7%] right-[-16.1%]"
         src={patternBottom}
         alt="Imagen de Background Top"
       />
