@@ -16,7 +16,7 @@ function App() {
         src={patternBottom}
         alt="Imagen de Background Top"
       />
-      <article className="bg-white rounded-2xl flex items-center flex-col shadow-2xl m-7">
+      <article className="bg-white rounded-2xl flex items-center flex-col shadow-2xl m-7 z-10">
         <img className="rounded-t-2xl" src={patternCard} alt="Imagen de fondo de card" />
         <img
           className="rounded-full border-[5px] border-white -translate-y-[50%] "
