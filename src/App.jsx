@@ -7,7 +7,7 @@ function App() {
   return (
     <main className="relative min-h-screen flex justify-center items-center">
       <img
-        className="absolute top-[-33%] left-[-11%]"
+        className="absolute top-[-70%] left-[-19.8%]"
         src={patternTop}
         alt="Imagen de Background Top"
       />
@@ -16,7 +16,7 @@ function App() {
         src={patternBottom}
         alt="Imagen de Background Top"
       />
-      <article className="bg-white rounded-2xl flex items-center flex-col shadow-2xl m-7 z-10">
+      <article className="bg-white rounded-2xl flex items-center flex-col shadow-2xl m-7">
         <img className="rounded-t-2xl" src={patternCard} alt="Imagen de fondo de card" />
         <img
           className="rounded-full border-[5px] border-white -translate-y-[50%] "
